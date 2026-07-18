@@ -121,24 +121,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 Resume Screening using NLP
-
-Machine Learning model that classifies resumes into different job roles using Natural Language Processing.
-
----
-
-## 🎓 Placement Prediction System
-
-Predicts placement chances using Machine Learning algorithms.
-
----
-
-## 🚢 Titanic Survival Prediction
-
-Classification model trained on the Titanic dataset.
-
 ---
 
 ## 🌐 Personal Portfolio
@@ -173,7 +155,7 @@ Collection of Machine Learning and Data Analysis Projects built using Python & S
 
 <p align="left">
 
-<a href="https://leetcode.com/dakshsaini2308/" target="_blank">
+<a href="https://leetcode.com/dakshsaini230/" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
@@ -185,7 +167,7 @@ Collection of Machine Learning and Data Analysis Projects built using Python & S
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://dakshsaini.vercel.app" target="_blank">
+<a href="https://dakshsaini.vercel" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -195,7 +177,7 @@ Collection of Machine Learning and Data Analysis Projects built using Python & S
 
 # 📫 Connect with Me
 
-📧 **Email:** your.email@example.com
+📧 **Email:** dakshsaini200523@example.com
 
 🌐 **Portfolio:** https://dakshsaini.vercel.app
 
@@ -203,7 +185,7 @@ Collection of Machine Learning and Data Analysis Projects built using Python & S
 
 🐙 **GitHub:** https://github.com/dakshsaini2
 
-🧩 **LeetCode:** https://leetcode.com/dakshsaini2308/
+🧩 **LeetCode:** https://leetcode.com/dakshsaini/
 
 ---
 

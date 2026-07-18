@@ -206,15 +206,15 @@ Collection of Machine Learning and Data Analysis projects.
 
 <p align="left">
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+<a href="https://leetcode.com/dakshsaini2308">
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/dakshsaini2">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/dakshsaini1/)">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -258,6 +258,6 @@ I love solving DSA problems, building AI applications, and creating beautiful we
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+<img src="https://raw.githubusercontent.com/dakshsaini2/dakshsaini2/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
 </p>

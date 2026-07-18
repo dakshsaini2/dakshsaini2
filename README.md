@@ -260,4 +260,4 @@ I love solving DSA problems, building AI applications, and creating beautiful we
 
 <img src="https://raw.githubusercontent.com/dakshsaini2/dakshsaini2/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 
-</p>
+</p> 

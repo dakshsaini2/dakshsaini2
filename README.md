@@ -216,7 +216,9 @@ If you like my work, consider giving a ⭐ to my repositories.
 <p align="center">
 
 <a href="https://github.com/dakshsaini2">
-<img src="https://img.shields.io/badge/GitHub-DakshSaini-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-DakshSaini-181717?style=for-the-badge&logo=github '
+  
+  "/>
 </a>
 
 </p>

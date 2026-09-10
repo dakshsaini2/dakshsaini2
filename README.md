@@ -213,7 +213,7 @@ Collection of Machine Learning and Data Analysis Projects built using Python & S
 
 If you like my work, consider giving a ⭐ to my repositories.
 
-<p align="center">
+<p align="center ">
 
 <a href="https://github.com/dakshsaini2">
 <img src="https://img.shields.io/badge/GitHub-DakshSaini-181717?style=for-the-badge&logo=github '

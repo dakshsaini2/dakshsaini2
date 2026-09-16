@@ -84,32 +84,24 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dakshsaini2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshsaini2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dakshsaini2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dakshsaini2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Streak & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dakshsaini2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshsaini2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Badges & Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dakshsaini2&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dakshsaini2&theme=tokyonight&no-frame=true&no-reflection=true" alt="GitHub Trophies"/>
+  <img src="https://my-github-trophies.vercel.app/?username=dakshsaini2&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -143,35 +135,13 @@
 
 ---
 
-# 💬 Favorite Quote
-
-> *"Consistency beats talent when talent doesn't stay consistent."*
-
----
-
-# ⚡ Fun Fact
-
-💡 I enjoy solving DSA problems, building AI-powered applications, exploring new technologies, and creating modern web experiences.
-
----
-
-# 📈 Contribution Snake
+# ⚡ Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/dakshsaini2/dakshsaini2/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
-
-# ❤️ Support
-
-If you like my work, consider giving a ⭐ to my repositories!
-
-<p align="center">
-  <a href="https://github.com/dakshsaini2">
-    <img src="https://img.shields.io/badge/GitHub-DakshSaini-181717?style=for-the-badge&logo=github" alt="Support GitHub"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6A5ACD&height=120&section=footer" alt="Footer Banner"/>

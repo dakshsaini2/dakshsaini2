@@ -84,24 +84,24 @@
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dakshsaini2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dakshsaini2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=dakshsaini2&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dakshsaini2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak & Activity
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dakshsaini2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=dakshsaini2&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-# 🏆 GitHub Badges & Trophies
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://my-github-trophies.vercel.app/?username=dakshsaini2&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dakshsaini2&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies"/>
 </p>
 
 ---

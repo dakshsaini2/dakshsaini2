@@ -109,7 +109,7 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dakshsaini2&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dakshsaini2&theme=tokyonight&no-frame=true&no-reflection=true" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -135,7 +135,7 @@
 
 # 📫 Connect with Me
 
-- 📧 **Email:** dakshsaini200523@example.com
+- 📧 **Email:** dakshsaini200523@gmail.com
 - 🌐 **Portfolio:** [dakshsaini.vercel.app](https://dakshsaini.vercel.app)
 - 💼 **LinkedIn:** [linkedin.com/in/dakshsaini1](https://www.linkedin.com/in/dakshsaini1/)
 - 🐙 **GitHub:** [github.com/dakshsaini2](https://github.com/dakshsaini2)
@@ -158,7 +158,7 @@
 # 📈 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dakshsaini2/dakshsaini2/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </p>
 
 ---

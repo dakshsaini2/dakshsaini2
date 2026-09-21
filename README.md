@@ -98,13 +98,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dakshsaini2&theme=tokyonight&column=4&margin-w=15" alt="GitHub Trophies"/>
-</p>
-
----
 
 # 🏅 Coding Profiles & Links
 

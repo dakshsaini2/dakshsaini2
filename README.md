@@ -2,9 +2,9 @@
   Hi 👋, I'm Daksh Saini
 </h1>
 
-<h3 align="center">
+<h4 align="center">
 🚀 Java Developer | Machine Learning Enthusiast | Full Stack Developer | B.Tech CSE Student
-</h3>
+</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Java+Developer;Machine+Learning+Engineer;Full+Stack+Developer;Open+Source+Learner;Always+Learning+New+Technologies!" alt="Typing SVG" />

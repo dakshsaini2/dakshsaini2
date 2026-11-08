@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-🚀 Java Developer | Machine Learning Enthusiast | Full Stack Developer | B.Tech CSE Student
+🚀 Java Developer  | Machine Learning Enthusiast | Full Stack Developer | B.Tech CSE Student
 </h4>
 
 <p align="center">

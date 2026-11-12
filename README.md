@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://github.com/dakshsaini2">
     <img src="https://komarev.com/ghpvc/?username=dakshsaini2&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  </a>
+  </a> 
   <a href="https://github.com/dakshsaini2?tab=followers">
     <img src="https://img.shields.io/github/followers/dakshsaini2?label=Followers&style=for-the-badge" alt="Followers"/>
   </a>
